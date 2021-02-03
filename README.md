@@ -1,5 +1,6 @@
-# resnet38_pytorch
-An unofficial implementation of https://arxiv.org/pdf/1611.10080v1.pdf using pytorch and pre-trained weight of ImageNet
+# Resnet38_PyTorch
+
+An unofficial implementation of [Wider or Deeper: Revisiting the ResNet Model for Visual Recognition](https://arxiv.org/abs/1611.10080v1) using pytorch and pre-trained weight of ImageNet.
 
 # Pre-Trained Weight file of ImageNet
 
